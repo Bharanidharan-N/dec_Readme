@@ -10,7 +10,7 @@
 - 🔭 Passionate about learning and growing in the **AI field**  
 📫 Contact me at bharaninatarajan2004@gmail.com
 - 🔗 Let's Connect:  
- [https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/bharani-n-605939257) [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/bharani.04/)
+ [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"](https://www.linkedin.com/in/bharani-n-605939257) [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/bharani.04/)
 
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" />  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" />  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> 
@@ -20,8 +20,7 @@
 
 
 ### 💻 Workspace Spec
-<img height="30" src="https://img.shields.io/badge/INTEL-i5_12500H-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>
-<img height="30" src="https://img.shields.io/badge/NVIDIA-RTX3050-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+<img height="30" src="https://img.shields.io/badge/INTEL-i5_12500H-0071C5?style=for-the-badge&logo=intel&logoColor=white"><img height="30" src="https://img.shields.io/badge/NVIDIA-RTX3050-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
 
 
 
