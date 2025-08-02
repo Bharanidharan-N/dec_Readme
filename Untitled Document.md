@@ -21,10 +21,8 @@
 
 
 ### 💻 Workspace Spec
-<img height="30" src="https://img.shields.io/badge/INTEL-i5_12500H-0071C5?style=for-the-badge&logo=intel&logoColor=white"> &nbsp;&nbsp; <img height="30" src="https://img.shields.io/badge/NVIDIA-RTX3050-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/BharanidharanN2004?theme=dark&font=Monda&ext=heatmap)](https://leetcode.com/u/BharanidharanN2004/)  
-
+<img height="30" src="https://img.shields.io/badge/INTEL-i5_12500H-0071C5?style=for-the-badge&logo=intel&logoColor=white"> &nbsp;&nbsp; <img height="30" src="https://img.shields.io/badge/NVIDIA-RTX3050-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/><br><br>
+[![LeetCode Stats](https://leetcard.jacoblin.cool/BharanidharanN2004?theme=dark&font=Monda&ext=heatmap)](https://leetcode.com/u/BharanidharanN2004/)<br><br>
 [![Bharani github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bharanidharan-N&bg_color=1f1f1f&color=fffa5c&line=7d7d7d&point=ffd1d1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
