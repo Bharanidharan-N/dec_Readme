@@ -1,6 +1,10 @@
-<h1 align="center">Hey developers <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-, Bharani here </h1>  
+<h1 align="center">Hey developers <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Bharani here </h1>
+
+
+
 ![Banner](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
+
+<h3 align="center">🎓 B.Tech Information Technology Student</h3>
 
 <h3 align="center">🎓 B.Tech Information Technology Student</h3>
 
@@ -24,5 +28,6 @@
 <img height="30" src="https://img.shields.io/badge/INTEL-i5_12500H-0071C5?style=for-the-badge&logo=intel&logoColor=white"> &nbsp;&nbsp; <img height="30" src="https://img.shields.io/badge/NVIDIA-RTX3050-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/><br><br>
 [![LeetCode Stats](https://leetcard.jacoblin.cool/BharanidharanN2004?theme=dark&font=Monda&ext=heatmap)](https://leetcode.com/u/BharanidharanN2004/)<br><br>
 [![Bharani github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bharanidharan-N&bg_color=1f1f1f&color=fffa5c&line=7d7d7d&point=ffd1d1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
